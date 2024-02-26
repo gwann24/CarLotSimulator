@@ -36,8 +36,5 @@ namespace Cars
         {
             Console.WriteLine($"Horn goes {sound}.");
         }
-
-
-
     }
 }
